@@ -9,4 +9,7 @@
 
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) 
 
-
+<p align="center">
+<a href= "https://www.instagram.com/ooe.ji"><img src="https://img.icons8.com/windows/32/000000/instagram.png"/></a>
+<a href= "https://twitter.com/jy_ooe"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
